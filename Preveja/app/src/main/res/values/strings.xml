@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Preveja</string>
+    <string name="pesquisar">Pesquisar</string>
+    <string name="limpar">Limpar</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+
+    <string name="localia">Localização</string>
+    <string name="loading">Carregando…</string>
+
+    <string name="no_results">"Nenhum resultado encontrado"</string>
+
+    <string name="no_search_term">Informe um termo de busca</string>
+
+    <string name="no_network">verifique sua conexão.</string>
+    <string name="str_empty">" "</string>
+</resources>
